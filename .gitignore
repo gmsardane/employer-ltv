@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+# data source
+ltv20160906_test.csv  
+ltv20160906_train.csv
